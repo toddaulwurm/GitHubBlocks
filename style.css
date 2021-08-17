@@ -1,0 +1,37 @@
+img {
+    height: 200px;
+    margin: 20px;
+}
+
+.row {
+    height: 200px;
+}
+
+#title {
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#blue {
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#pink {
+    background-color: lightcoral;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+#almond {
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
