@@ -18,7 +18,7 @@ img {
     background-color: lightblue;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 #pink {
@@ -33,5 +33,5 @@ img {
     background-color: blanchedalmond;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
